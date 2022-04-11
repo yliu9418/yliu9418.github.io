@@ -7,7 +7,7 @@ author:     "Henry"
 catalog: false
 header-style: text
 tags:
-  - 被夹
+  - COVID-19
 ---
 70年阅兵时， 口号他比谁喊的都响亮，朋友圈发的比谁都漂亮，那时他说他是骄傲的中国人；
 
