@@ -13,8 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     找不到北的南先生
-zhihu_username:     Henry
+weibo_username:     3520386940
+zhihu_username:     zhao-bu-dao-bei-de-nan-xian-sheng
 github_username:    yliu9418
 twitter_username:   XX
 #facebook_username:  YL
