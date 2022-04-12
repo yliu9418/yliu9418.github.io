@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "疫情三姓家奴"
+title:      "精致的利己主义者"
 subtitle:   " "
 date:       2020-02-06 12:00:00
 author:     "Henry"
@@ -8,6 +8,7 @@ catalog: false
 header-style: text
 tags:
   - COVID-19
+  - 
 ---
 70年阅兵时， 口号他比谁喊的都响亮，朋友圈发的比谁都漂亮，那时他说他是骄傲的中国人；
 
