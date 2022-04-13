@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      ""
+title:      "🇺🇸"
 date:       2018-09-27 12:00:00
 author:     "From Internet"
 header-style: text
