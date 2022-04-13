@@ -3,6 +3,6 @@ Hi, I am Henry, a natural language processing engineer & quantum computing resea
 I'm currently focuses on leveraging social media as an alternative data source for disease surveillance.
 
 
-I studied BS, Electrical Engineering at [HPU](https://en) and MS, Computer Science (with a focus on natural language processing) at [North Carolina](https://en).
+I studied BS, Electrical Engineering at [HPU](https://en.wikipedia.org/wiki/Henan_Polytechnic_University) and MS, Computer Science (with a focus on natural language processing) at [North Carolina](https://en.wikipedia.org/wiki/North_Carolina).
 
 
