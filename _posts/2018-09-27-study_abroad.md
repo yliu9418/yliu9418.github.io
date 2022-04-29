@@ -2,7 +2,7 @@
 layout:     post
 title:      "🇺🇸"
 date:       2018-09-27 12:00:00
-author:     "From Internet"
+author:     "Unknown"
 header-style: text
 catalog: false
 tags:
