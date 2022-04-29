@@ -6,7 +6,7 @@ author:     "Hux"
 header-style: text
 catalog: false
 tags:
-  - 被夹
+  - Respect
 ---
 
 > 在知乎被删帖，我理解知乎。  
