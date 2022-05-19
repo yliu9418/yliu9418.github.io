@@ -78,7 +78,7 @@ ga_domain: #huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "燚阳，研究🐶 NLP，QC，自然语言/量子计算初心者 <br> A software dev & researcher accidentally growing into a NLP/QC engineer."
+sidebar-about-description: "燚阳， NLP，QC，自然语言/量子计算初心者 <br> A software dev & researcher accidentally growing into a NLP/QC engineer."
 sidebar-avatar: /img/YL.jpg  # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
