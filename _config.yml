@@ -17,13 +17,12 @@ weibo_username:     3520386940
 zhihu_username:     zhao-bu-dao-bei-de-nan-xian-sheng
 github_username:    yliu9418
 twitter_username:   XX
-#facebook_username:  YL
-#linkedin_username:  yang-henry-liu-575673185
+
 
 
 
 # Build settings
-# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
+
 highlighter: rouge
 permalink: pretty
 paginate: 10
