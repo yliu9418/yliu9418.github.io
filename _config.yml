@@ -14,7 +14,7 @@ future: true
 # SNS settings
 RSS: false
 weibo_username:     3520386940
-zhihu_username:     zhao-bu-dao-bei-de-nan-xian-sheng
+# zhihu_username:     zhao-bu-dao-bei-de-nan-xian-she
 github_username:    yliu9418
 twitter_username:   XX
 
