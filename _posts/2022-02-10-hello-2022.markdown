@@ -1,0 +1,58 @@
+---
+layout:     post
+title:      "Hello 2022"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2022-02-10 12:00:00
+author:     "Henry"
+header-img: "img/home-bg-o.jpg"
+
+catalog: true
+tags:
+    - 生活
+    - Blog
+    - Meta
+---
+
+> “Yeah It's on. ”
+
+燚阳的Blog 就这么开通了。
+
+
+
+全程无羞耻的 fork [「**@Huxpro**」](https://github.com/huxpro) 
+（读书人的事，能算偷咩？🐶）
+
+无意间发现的宝藏🌟🌟，之所以用🌟🌟，是找不到一个词去形容他
+**有趣的灵魂 + 精妙的技术**。
+欣赏之情溢于言表，感谢！
+
+
+2022 年， 总算有个地方可以好好写点东西了。
+
+
+
+<p id = "build"></p>
+
+## 正文
+
+
+
+* **燚阳** 
+* 作为一名CS的学生，每每被问及自己的Github，想到几年了依旧干净，脸还是会红的
+* 百无聊赖的某个周末闲逛全球最大同性交友网站 **GitHub** 机缘巧合发现了 **[@Huxpro]**，终于不用折腾自己了
+	* 再次感谢
+* 燚阳的Blog之旅就这么开启了。
+
+
+
+---
+
+
+
+## 后记
+
+如果你恰好逛到了这里，希望你也能喜欢这个博客主题。
+
+—— Henry 后记于 2022.02
+
+
