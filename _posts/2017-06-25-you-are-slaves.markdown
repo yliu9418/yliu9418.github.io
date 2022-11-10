@@ -65,3 +65,9 @@ tags:
 > Today, we celebrate our Independence Day!  
 
 **国乒，愿有属于你们的独立日。**
+
+## 后记
+
+真心喜欢 hux 的才华，无论是网页的设计，还是对社会与生活的思考，有厚度，有深度，这也是我保留这篇文章的初心。Respect！
+
+—— Henry 后记于 2022.10
