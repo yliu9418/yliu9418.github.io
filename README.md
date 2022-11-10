@@ -12,4 +12,4 @@ Copyright (c) 2013-2016 Blackrock Digital LLC.
 Acknowledgments
 --------
 
-I would like to thank ###Huxpro (https://github.com/Huxpro), for his selfless contributions. Without his efforts, you would never have seen this blog. 
+I would like to thank [**Huxpro**] (https://github.com/Huxpro), for his selfless contributions. Without his efforts, you would never have seen this blog. 
