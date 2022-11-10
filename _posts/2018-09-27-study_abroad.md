@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "🇺🇸"
+title:      "多看多听多感悟"
 date:       2018-09-27 12:00:00
 author:     "Unknown"
 header-style: text
