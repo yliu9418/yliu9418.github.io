@@ -1,4 +1,3 @@
-
 ---
 layout:     post
 title:      "Nobody's Free Until Everybody's Free"
