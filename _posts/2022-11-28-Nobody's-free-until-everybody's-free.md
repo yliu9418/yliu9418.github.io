@@ -3,9 +3,8 @@ layout:     post
 title:      "Nobody's Free Until Everybody's Free"
 date:       2022-11-28 12:00:00
 author:     "Henry"
-header-style: text
-header-img: "img/post_word.jpeg"
 catalog: true
+header-img: "img/post_word.jpeg"
 tags:
   - 时代的缩影
 ---
