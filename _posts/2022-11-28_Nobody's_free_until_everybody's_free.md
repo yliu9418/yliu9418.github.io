@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Nobody's Free Until Everybody's Free"
+title:      "Nobody Free Until Everybody Free"
 date:       2022-11-28 12:00:00
 author:     "Henry"
 header-style: text
