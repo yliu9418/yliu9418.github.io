@@ -7,7 +7,7 @@ header-style: text
 header-img: "img/post_word.jpeg"
 catalog: false
 tags:
-  - Respect
+  - 时代的缩影
 ---
 
 > Nobody's Free Until Everybody's Free.  
