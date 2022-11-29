@@ -40,12 +40,3 @@ tags:
 
 
 
-> We will not go quietly into the night!   
-> We will not vanish without a fight!   
-> We're going to live on!   
-> We're going to survive!   
-> Today, we celebrate our Independence Day!  
-
-**愿有属于我们的明天。**
-
-
