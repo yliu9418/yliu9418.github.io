@@ -4,6 +4,7 @@ title:      "Nobody's Free Until Everybody's Free"
 date:       2022-11-28 12:00:00
 author:     "Henry"
 header-style: text
+header-img: "img/post_word.jpeg"
 catalog: false
 tags:
   - Respect
@@ -26,7 +27,7 @@ tags:
 **但今天，我要骂的是你们，至少还能听到我声音的你们。** 
 
 
-post_word.jpeg
+
 
 **这种情况，我们一般称之为「奴隶」。**
 
