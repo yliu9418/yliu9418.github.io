@@ -10,13 +10,12 @@ tags:
   - 时代的缩影
 ---
 
-> Nobody's Free Until Everybody's Free.  
->   
+> Nobody's Free Until Everybody's Free.   
 > <br/>
 > 一个健康的社会不应该只有一种声音。  
 >  
 > <br/>
-> 前所未有的信仰危机。
+> 这个世界会好吗？
 > 
 
 我们正在经历一场前所未有的「信仰危机」。
