@@ -1,9 +1,9 @@
 
 ---
 layout:     post
-title:      "他是狗，你们便是苟奴隶"
-date:       2017-06-24 12:00:00
-author:     "Hux"
+title:      "Nobody's Free Until Everybody's Free"
+date:       2022-11-28 12:00:00
+author:     "Henry"
 header-style: text
 catalog: false
 tags:
