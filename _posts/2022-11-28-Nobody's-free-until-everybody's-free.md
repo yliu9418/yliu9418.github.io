@@ -5,7 +5,7 @@ date:       2022-11-28 12:00:00
 author:     "Henry"
 header-style: text
 header-img: "img/post_word.jpeg"
-catalog: false
+catalog: true
 tags:
   - 时代的缩影
 ---
