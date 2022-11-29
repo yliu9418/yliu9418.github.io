@@ -13,7 +13,6 @@ tags:
 > Nobody's Free Until Everybody's Free.   
 > <br/>
 > 一个健康的社会不应该只有一种声音。  
->  
 > <br/>
 > 这个世界会好吗？
 > 
