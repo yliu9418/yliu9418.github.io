@@ -6,7 +6,7 @@ author:     "Henry"
 catalog: true
 header-img: "img/post_word.jpeg"
 tags:
-  - 时代的缩影
+  - 永远年轻，永远热泪滚烫
 ---
 
 > 这个世界会好吗？  
