@@ -1,4 +1,3 @@
-
 ---
 layout:     post
 title:      "Farewell 2022. Happy New Year, 2023"
